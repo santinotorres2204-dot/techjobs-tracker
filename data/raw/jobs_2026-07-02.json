@@ -1,0 +1,324 @@
+{
+  "mean": 73128.07,
+  "results": [
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Amazon TA"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "created": "2026-06-17T16:58:40Z",
+      "salary_min": 59438.12,
+      "latitude": 51.506896,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5766911457?se=SoLXrkh28RGfPK6vtb8bDg&utm_medium=api&utm_source=a1543e4a&v=86A730781B93A3F0684D64B9213E38B10B0C7230",
+      "location": {
+        "display_name": "Charing Cross, Central London",
+        "area": [
+          "UK",
+          "London",
+          "Central London",
+          "Charing Cross"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_is_predicted": "1",
+      "title": "Chief Engineer, Data Centre Engineering Operations, Data Centre Engineering Operations",
+      "salary_max": 59438.12,
+      "longitude": -0.127788,
+      "description": "AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we\u2019re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain \u2014 and we\u2019re looking for talented people wh\u2026",
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU29MWHJraDI4UkdmUEs2dnRiOGJEZyIsImkiOiI1NzY2OTExNDU3In0.DtSnArfxcJvFiMp-1KyUxqYOfpsbxH111-JMLO25zWI",
+      "id": "5766911457"
+    },
+    {
+      "location": {
+        "area": [
+          "UK",
+          "London",
+          "Central London",
+          "Charing Cross"
+        ],
+        "display_name": "Charing Cross, Central London",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5759905518?se=SoLXrkh28RGfPK6vtb8bDg&utm_medium=api&utm_source=a1543e4a&v=916A8FD2103A024CA0357CBF59F13AEF30B6D17D",
+      "title": "Data Center Facility Engineer, Data Center Engineering Operations",
+      "salary_is_predicted": "1",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Amazon TA"
+      },
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-06-11T13:15:04Z",
+      "latitude": 51.506896,
+      "salary_min": 50372.37,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1OTkwNTUxOCIsInMiOiJTb0xYcmtoMjhSR2ZQSzZ2dGI4YkRnIn0.IimMKaKzUSTMbpuc3f10vYx59OxWWsPo8Xup1v5dO2c",
+      "id": "5759905518",
+      "salary_max": 50372.37,
+      "description": "AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we\u2019re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain \u2014 and we\u2019re looking for talented people wh\u2026",
+      "longitude": -0.127788,
+      "contract_time": "full_time"
+    },
+    {
+      "title": "Data Engineer",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU29MWHJraDI4UkdmUEs2dnRiOGJEZyIsImkiOiI1NzczNjgzMTgzIn0.eJoZUXi4KVamoKsdy5D0_I5BrcQPKvTFy0V4z5fE5Do",
+      "id": "5773683183",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5773683183?se=SoLXrkh28RGfPK6vtb8bDg&utm_medium=api&utm_source=a1543e4a&v=A05E55CAA5F9AC3137401A70E163CBC5B6DDF873",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "UK",
+          "Northern Ireland",
+          "Belfast"
+        ],
+        "display_name": "Belfast, Northern Ireland",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2026-06-23T15:36:28Z",
+      "salary_min": 55000,
+      "salary_max": 55000,
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Ocho"
+      },
+      "description": "Data Engineer Location: Belfast (Hybrid) Eligibility: UK work authorisation required We're working with a highly regarded technology consultancy delivering complex data solutions for global financial markets clients. Due to continued growth, they're looking for a Data Engineer to join their Belfast team and work on large scale, data intensive platforms within a fast paced engineering environment. This is a strong opportunity for an engineer who enjoys building robust data pipelines, working wit\u2026"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2NDU2MzIzOCIsInMiOiJTb0xYcmtoMjhSR2ZQSzZ2dGI4YkRnIn0.q9f-RhHE7NQvUVKuZOzB6g9PlrQLUSkUVC5s-C9WiUs",
+      "salary_is_predicted": "1",
+      "id": "5764563238",
+      "title": "Data Engineer",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5764563238?se=SoLXrkh28RGfPK6vtb8bDg&utm_medium=api&utm_source=a1543e4a&v=6A3B5FE3923A1CFDC82E92BABF6DDBDEB7071BC0",
+      "location": {
+        "area": [
+          "UK",
+          "Northern Ireland",
+          "Belfast"
+        ],
+        "display_name": "Belfast, Northern Ireland",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2026-06-15T20:51:22Z",
+      "salary_min": 54838.96,
+      "salary_max": 54838.96,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "PA Consulting"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "description": "Company description We believe in the power of ingenuity to build a positive human future. As strategies, technologies, and innovation collide, we create opportunity from complexity. Our teams of interdisciplinary experts combine innovative thinking and breakthrough technologies to progress further, faster. Our clients adapt and transform, and together we achieve enduring results. We are over 4,000 strategists, innovators, designers, consultants, digital experts, scientists, engineers, and tech\u2026"
+    },
+    {
+      "created": "2026-06-16T20:35:08Z",
+      "salary_min": 53868.62,
+      "company": {
+        "display_name": "PA Consulting",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_max": 53868.62,
+      "description": "Company description We believe in the power of ingenuity to build a positive human future. As strategies, technologies, and innovation collide, we create opportunity from complexity. Our teams of interdisciplinary experts combine innovative thinking and breakthrough technologies to progress further, faster. Our clients adapt and transform, and together we achieve enduring results. We are over 4,000 strategists, innovators, designers, consultants, digital experts, scientists, engineers, and tech\u2026",
+      "salary_is_predicted": "1",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU29MWHJraDI4UkdmUEs2dnRiOGJEZyIsImkiOiI1NzY1Nzc0MDEyIn0.Dr_8o6c--9IwFJLxEa3e-ZU1S26a4irzMdfVp57ym90",
+      "id": "5765774012",
+      "title": "Data Engineer",
+      "location": {
+        "area": [
+          "UK",
+          "Northern Ireland",
+          "Belfast"
+        ],
+        "display_name": "Belfast, Northern Ireland",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5765774012?se=SoLXrkh28RGfPK6vtb8bDg&utm_medium=api&utm_source=a1543e4a&v=3D2D04B5BDC168C68B6889999682CE07A01C3557"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1NDEzNjk1NyIsInMiOiJTb0xYcmtoMjhSR2ZQSzZ2dGI4YkRnIn0.vhFWkQSSizScFDqYYa6Ik1dTlBUh1MIuYvHCBFdGEGo",
+      "salary_is_predicted": "1",
+      "id": "5754136957",
+      "title": "Data Engineer",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5754136957?se=SoLXrkh28RGfPK6vtb8bDg&utm_medium=api&utm_source=a1543e4a&v=47EC7B93C4E5C65EF3AE1B0D2576134F7E44CF8C",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "Northern Ireland",
+          "Belfast"
+        ],
+        "display_name": "Belfast, Northern Ireland"
+      },
+      "created": "2026-06-06T08:09:59Z",
+      "salary_min": 58870.26,
+      "salary_max": 58870.26,
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Version 1"
+      },
+      "description": "Version 1 has celebrated over 29 years in Technology Services and continues to be trusted by global brands to deliver solutions that drive customer success. Our expertise enables our customers to navigate the rapidly changing Digital-First world we live in. We foster strong partnerships with leading technology giants including Microsoft, AWS, Oracle, Red Hat, OutSystems, Snowflake, ensuring that our customers are provided with the highest quality solutions and services. Were an award-winning em\u2026"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4MjMwNTEwOCIsInMiOiJTb0xYcmtoMjhSR2ZQSzZ2dGI4YkRnIn0.kE4aZFaMEIExReNGZbqxWOzf09mMwPGviKwZiAToDIY",
+      "id": "5782305108",
+      "salary_max": 51831.18,
+      "description": "Role Title: Data Engineer Duration: contract to run until 31/03/2027 Location: Hybrid . Bristol visits twice a month - predominantly remote Rate: TBC Umbrella inside IR35 Clearance required: Active SC Clearance Desired. SC Eligible required Role purpose / summary Embedded within the Data & Digital Analytics Platform (DDAP). This role focuses on developing, maintaining, and supporting data pipelines between BMfS applications and DDAP. The postholder ensures BMfS data is reliably ingested, transf\u2026",
+      "longitude": -2.5919,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "South West England",
+          "Bristol"
+        ],
+        "display_name": "Bristol, South West England"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5782305108?se=SoLXrkh28RGfPK6vtb8bDg&utm_medium=api&utm_source=a1543e4a&v=6A1DCCAC2163951861D808827094EC1CB0C089EE",
+      "contract_type": "contract",
+      "title": "Data Engineer",
+      "salary_is_predicted": "1",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "company": {
+        "display_name": "Experis",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-06-30T19:04:10Z",
+      "latitude": 51.455299,
+      "salary_min": 51831.18
+    },
+    {
+      "created": "2026-06-26T14:41:50Z",
+      "salary_min": 100000,
+      "salary_max": 100000,
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "company": {
+        "display_name": "Ocho",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "description": "Data Engineering Manager Remote | Fintech | Up to \u00a3110,000  Bonus Manager-level data engineering leadership role in a high-growth global fintech Own the roadmap for a high-impact transaction matching and data platform Hands-on technical leadership across ETL/ELT, Snowflake, DBT and cloud data architecture Fully remote working model Competitive salary plus bonus and benefits About the Company Our client is a global fintech organisation operating at significant scale, powering merchant commerce a\u2026",
+      "id": "5777758783",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU29MWHJraDI4UkdmUEs2dnRiOGJEZyIsImkiOiI1Nzc3NzU4NzgzIn0.GQFbVxmD8VfuObf8WzYEFHVOK_ddgYgqQlsVKOcdybI",
+      "title": "Data Engineering Manager",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5777758783?se=SoLXrkh28RGfPK6vtb8bDg&utm_medium=api&utm_source=a1543e4a&v=1C12BAC6E2EB843EA94312224F21249E37196EC3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Belfast, Northern Ireland",
+        "area": [
+          "UK",
+          "Northern Ireland",
+          "Belfast"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3ODQzMDAwOCIsInMiOiJTb0xYcmtoMjhSR2ZQSzZ2dGI4YkRnIn0.UbZlgBIYfguMbVpXNTrbP7KHryto64KYzdg1VE8LY_8",
+      "id": "5778430008",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Every mind is unique. Yet much of the world is still built for what's considered \"normal,\" leaving too many people behind. At Everway, we change that by creating technology that helps everyone understand and be understood. By understanding and addressing the unique needs of each individual, we're creating a world where differences are recognized and valued. Our careers fit real life. When you join us, you're not just taking a job. You're joining a movement to build a more neuroinclusive world. \u2026",
+      "longitude": -6.21676,
+      "salary_max": 102430.48,
+      "salary_is_predicted": "1",
+      "title": "Principal Data Engineer",
+      "contract_type": "permanent",
+      "location": {
+        "display_name": "Antrim, County Antrim",
+        "area": [
+          "UK",
+          "Northern Ireland",
+          "County Antrim",
+          "Antrim"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5778430008?se=SoLXrkh28RGfPK6vtb8bDg&utm_medium=api&utm_source=a1543e4a&v=0BB5DB55B402AA07DC39A3A409F5663E02A70C0F",
+      "latitude": 54.713402,
+      "salary_min": 102430.48,
+      "created": "2026-06-27T02:41:19Z",
+      "company": {
+        "display_name": "Everway",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "id": "5766992560",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU29MWHJraDI4UkdmUEs2dnRiOGJEZyIsImkiOiI1NzY2OTkyNTYwIn0.aTxUzW6kfbvQ3e7M4Fu6_f8Z1DcEQNiINM-zfC1iihM",
+      "title": "Manufacturing Data Engineer",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5766992560?se=SoLXrkh28RGfPK6vtb8bDg&utm_medium=api&utm_source=a1543e4a&v=FB8D5044B5C6F94EC3B8C13E6D0621511F7E1348",
+      "location": {
+        "display_name": "County Tyrone, Northern Ireland",
+        "area": [
+          "UK",
+          "Northern Ireland",
+          "County Tyrone"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_min": 40000,
+      "latitude": 54.479142,
+      "created": "2026-06-17T21:06:43Z",
+      "longitude": -6.893812,
+      "description": "Park Recruit are delighted to be partnering with a leading global engineering and manufacturing organisation in the Mid Ulster area to recruit a Data Manufacturing Engineer. This is an excellent opportunity to join an innovative business at the forefront of industrial equipment manufacturing, supporting the accurate flow of engineering and production data across the organisation. As a Data Manufacturing Engineer, you will play a key role in managing product and manufacturing data, ensuring info\u2026",
+      "salary_max": 40000,
+      "category": {
+        "tag": "manufacturing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Manufacturing Jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Park Recruit"
+      }
+    }
+  ],
+  "count": 7132,
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults"
+}
